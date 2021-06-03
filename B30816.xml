@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Popish damnable plot against our religion and liberties fairly laid open and discover'd in the breviats of threescore and four letters and papers of intelligence past betwixt the Pope, Duke of York, Cardinal Norfolk, Cardinal Cibo, Cardinal Barbarina, nuntio and internuncio for the Pope in Italy, France and Flanders, and the Lord Arundel, Mr. Coleman, Mr. Cooke, Mr. Conne. And also the said Mr. Coleman, Albany, Sr. German, Lybourn, Sheldon, Throgmorton, and several others. As they were drawn up by the Secret Committee of the House of Commons, for the satisfaction of the House of Lords, in the bill against the Duke of York, and expected tryals of the Lords. / Now published for the vindication of the House of Commons upon the said bill, and for satisfaction of all the faithful subjects of His Majesties kingdoms, with several animadversions and remarks made upon the said letters.</title>
+         </titleStmt>
+         <extent>Approx. 58KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B30816</idno><idno type="EEBO-CITATION">99889543_201967</idno>
+  <idno type="VID">201967</idno>
+  <idno type="EEBO-PROQUEST">2248545633</idno>
+  
+            <idno type="OCLC"> 10488140</idno>
+            <idno type="STC">Wing T1879A</idno>
+            <idno type="STC">Interim Tract Supplement Guide T.2*[22]</idno>
+            <idno type="STC">Interim Tract Supplement Guide T.88*.[53]</idno>
+            <idno type="STC">ESTC R28265</idno>
+            <idno type="PROQUEST">ocm99889543</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99889543e"/>
+            <note>(EEBO-TCP ; phase 2, no. B30816)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201967)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C6:3[16]; C30:1[52])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Popish damnable plot against our religion and liberties fairly laid open and discover'd in the breviats of threescore and four letters and papers of intelligence past betwixt the Pope, Duke of York, Cardinal Norfolk, Cardinal Cibo, Cardinal Barbarina, nuntio and internuncio for the Pope in Italy, France and Flanders, and the Lord Arundel, Mr. Coleman, Mr. Cooke, Mr. Conne. And also the said Mr. Coleman, Albany, Sr. German, Lybourn, Sheldon, Throgmorton, and several others. As they were drawn up by the Secret Committee of the House of Commons, for the satisfaction of the House of Lords, in the bill against the Duke of York, and expected tryals of the Lords. / Now published for the vindication of the House of Commons upon the said bill, and for satisfaction of all the faithful subjects of His Majesties kingdoms, with several animadversions and remarks made upon the said letters.</title>
+                  <author>Tonge, Ezerel, 1621-1680, attributed name.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 31, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Janeway in Queens-Head Alley in Pater-Noster-Row.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>MDCLXXX. [1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Sometimes attributed to Ezerel Tonge.</note>
+                  <note>"Animadversions on the foregoing breviats"--p. 13-31.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Popish Plot, 1678 --  Early works to 1800.</term>
+               <term type="topical_term">Catholics --  England --  Controversial literature --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:201967:1"/>
+            <p>THE POPISH Damnable Plot AGAINST OUR <hi>Religion and Liberties</hi> Fairly laid open and discover'd in the BREVIATS of Threescore and Four LETTERS AND <hi>Papers of Intelligence</hi> PAST</p>
+            <p>Betwixt the Pope, Duke of <hi>York,</hi> Cardinal <hi>Norfolk,</hi> Cardinal <hi>Cibo,</hi> Cardinal <hi>Barbarina,</hi> Nuntio and Internuncio for the Pope in <hi>Italy, France</hi> and <hi>Flanders,</hi> and the Lord <hi>Arundel,</hi> Mr. <hi>Coleman,</hi> Mr. <hi>Cooke,</hi> Mr. <hi>Conne.</hi> And also the said Mr. <hi>Coleman, Albany,</hi> Sr. <hi>German, Ly<g ref="char:EOLhyphen"/>bourn, Sheldon, Throgmorton,</hi> and several others.</p>
+            <p>As they were drawn up by the Secret Committee of the House of Commons, for the satisfaction of the House of Lords, in the Bill against the Duke of <hi>York,</hi> and expected Tryals of the Lords.</p>
+            <p>Now Published for the Vindication of the House of Commons upon the said Bill, and for satisfaction of all the faithful Subjects of His Majesties Kingdoms, with several <hi>Animadversions</hi> and <hi>Remarks</hi> made upon the said <hi>Letters.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Janeway</hi> in <hi>Queens-Head</hi> Alley in <hi>Pater-Noster-Row.</hi> MDCLXXX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:201967:2"/>
+            <pb n="1" facs="tcp:201967:2"/>
+            <head>THE POPISH Damnable Plot AGAINST OUR <hi>Religion and Liberties</hi> Fairly laid open.</head>
+            <div type="part">
+               <head>
+                  <hi>Die Martis</hi> 25. <hi>Martii</hi> 1679.</head>
+               <p>REsolved, <hi>nemine contradicente,</hi> by the Lords Spiri<g ref="char:EOLhyphen"/>tual and Temporal and Commons in Parliament assembled, That they do declare that they are fully satisfied, by the Proofs they have heard, there now is, and for divers Years last past hath been a horrid and treasonable Plot and Conspiracy carried on by those of the Popish Religion; for murthering of his Ma<g ref="char:EOLhyphen"/>jesties Sacred Person, and for subverting the Protestant Religion, and the ancient and established Government of this Kingdom.</p>
+               <closer>
+                  <signed>
+                     <hi>Jo. Brown</hi> Cleric. Parliament.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="2" facs="tcp:201967:3"/>
+               <head>
+                  <hi>Sunday April</hi> 27. 1679.</head>
+               <p>Resolved, <hi>nemine contradicente,</hi> That the Duke of <hi>York</hi> being a Papist, and his hopes of coming such to the Crown, hath given the greatest incouragement and coun<g ref="char:EOLhyphen"/>tenance, to the present Conspiracies and Designs of the Papists, against the King and Protestant Religion.</p>
+               <p>Order'd, That the Lord <hi>Russel</hi> do go up to the Lords to desire their concurrence to this Vote.</p>
+               <p>Order'd, That the secret Committee bring in an Ab<g ref="char:EOLhyphen"/>stract of all those Letters they have, or can come by, that concern the Duke of <hi>York,</hi> as to the Plot, with all speed.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Sunday May</hi> 11. 1679.</head>
+               <p>Order'd that a Bill be brought in to disable the Duke of <hi>York</hi> to inherit the Imperial Crown of this Realm.</p>
+               <p>Resolved, <hi>nemine contradicente,</hi> That in defence of the Kings Person, and the Protestant Religion, this House doth declare, That they will stand by his Ma<g ref="char:EOLhyphen"/>jesty, with their Lives and Fortunes; and that if his Majesty should come by any violent death, which God forbid, that they will revenge it to the utmost on the Papists.</p>
+               <p>Order'd, That these Votes be drawn in the form of an Address to be presented to His Majesty; which is as followeth.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>May</hi> 14. 1679.</head>
+               <opener>
+                  <salute>Most dread Soveraign,</salute>
+               </opener>
+               <p>We your Majesties most Dutiful and Loy<g ref="char:EOLhyphen"/>al Subjects, the Commons in this present Par<g ref="char:EOLhyphen"/>liament assembled, do with all humble Grati<g ref="char:EOLhyphen"/>tude
+<pb n="3" facs="tcp:201967:3"/>acknowledge the most Gracious Assu<g ref="char:EOLhyphen"/>rances your Majesty hath been pleased to give us, of your constant care to do any thing that may preserve the Protestant Religion, of your firm Resolution to defend the same to the ut<g ref="char:EOLhyphen"/>most, and your Royal Endeavours that the se<g ref="char:EOLhyphen"/>curity of that Blessing may be transmitted to Posterity; and We do humbly represent to Your Majesty, that being deeply sensible that the greatest hopes of success against our Reli<g ref="char:EOLhyphen"/>gion in the Enemies thereof, the Papists, are founded in execrable Designs which they have laid against your Sacred Person, and the Life of your Majesty, which is not only our Duty but our Interest with the greatest hazard to pre<g ref="char:EOLhyphen"/>serve and defend; We have employed our Counsels to the making such Provisions by Law as may defeat these Popish Adversaries, their Abettors, and Adherents, of their hopes of gaining any advantage by any violent attempts against your Majesty, and may utterly frustrate their expectation of subverting the Protestant Religion thereby in time to come: And further to obviate, by the best means we can, all wicked Practices against your Majesty while any such Laws are in preparation and bringing to perfe<g ref="char:EOLhyphen"/>ction, It is our Resolution, and we do declare, <hi>That in Defence of Your Majesty and the Pro<g ref="char:EOLhyphen"/>stant Religion, We will stand by Your Majesty with our Lives and Fortunes, and shall be ready to revenge upon the Papists any Violence offered
+<pb n="4" facs="tcp:201967:4"/>by them to your Sacred Person.</hi> In which we hope your Majesty will graciously be pleased to be the more assured, as we our selves are the more incouraged, in that the Hearts of all your Majesties Protestant Subjects, with the most sincere Affection and Zeal, joyn with us herein.</p>
+            </div>
+            <div type="part">
+               <head>May the 19th. <hi>The House of Commons attended his Majesty with this Address; whereunto his Majesty was pleased to return this gracious Answer.</hi>
+               </head>
+               <opener>
+                  <salute>Gentlemen,</salute>
+               </opener>
+               <p>
+                  <hi>I thank you for your Zeal for the preservation of the Pro<g ref="char:EOLhyphen"/>testant Religion and my Person, and I assure you I will do what in me lyeth to preserve the Protestant Religion, and am willing to do all such things as may tend to the benefit and good of my Subjects.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Wednesday, May</hi> 21. 1679.</head>
+               <p>The Chairman of the Committee of Secresie reports several Letters, most of them tending to the great assu<g ref="char:EOLhyphen"/>rance and confidence the Popish Party had by reason the Duke of <hi>York</hi> being a Papist. After which the Bill to dis<g ref="char:EOLhyphen"/>inable the Duke of <hi>York</hi> to inherit the Imperial Crown of this Realm, was read a second time, and committed to a Committee of the whole House on <hi>Fryday</hi> next following. A true Abstract of which Letters are as followeth.</p>
+            </div>
+         </div>
+         <div type="text">
+            <pb n="5" facs="tcp:201967:4"/>
+            <head>SEVERAL <hi>Material Passages</hi> OUT OF LETTERS RELATING TO <hi>The horrid Popish Plot,</hi>
+            </head>
+            <div type="part">
+               <head>The Letters from <hi>Albany</hi>'s Internuncio at <hi>Brussels</hi> to Mr. <hi>Coleman.</hi>
+               </head>
+               <p>
+                  <hi>Aug.</hi> 14. 75. <hi>Num.</hi> 5. GLad to hear of the good condition in which the Dukes Affairs stood, in relation to the proceed<g ref="char:EOLhyphen"/>ings he had with the Parliament, hopes him entire Victory; the Pope and Emperour will assist and serve him and the Catholicks.</p>
+               <p n="2">2. <hi>Sept.</hi> 28.74. <hi>Num.</hi> 9] The Pope will accommodate the diffe<g ref="char:EOLhyphen"/>rence between <hi>France</hi> and <hi>Spain,</hi> by which means he shall contribute to the advantage of the Duke and Catholicks, the Emperour like<g ref="char:EOLhyphen"/>wise zealous.</p>
+               <pb n="6" facs="tcp:201967:5"/>
+               <p n="3">3. Sir <hi>George Talbot, Oct.</hi> 30. 74. <hi>Num.</hi>—] He proffers himself in<g ref="char:EOLhyphen"/>strumental and Servant to the Duke, and now going from <hi>Brussels</hi> de<g ref="char:EOLhyphen"/>sires to be written to at <hi>Rome.</hi>
+               </p>
+               <p n="4">4. Sir <hi>Ed. Verham, July</hi> 3.75. <hi>Num.</hi> 11.] The business of the Car<g ref="char:EOLhyphen"/>dinal of <hi>Norfolk</hi> will serve as an evident proof of the Pope's affection to the Concern of <hi>England,</hi> from whence draw an assured Conse<g ref="char:EOLhyphen"/>quence of what you may hope when the Affairs of the D. shall need the Assistance of <hi>Rome.</hi>
+               </p>
+               <p n="5">5. <hi>Octob</hi> 19. 75. <hi>Num.</hi>—] Promoting the Affairs of the D. and Catholicks by the Pope and Emperour, speaks of the deferring the Execution of the Sentence, which might cause some divisions among the Catholicks, and give occasion of advantage to the Parliament.</p>
+            </div>
+            <div type="part">
+               <head>Sr. <hi>Germain</hi>'s Letters to <hi>Coleman.</hi>
+               </head>
+               <p n="6">6. 18/28. <hi>March</hi> 75.] Speaks of the Papists Intrigues with <hi>France,</hi> and says the D. Lord Treasurer is very well disposed to the success of this business.</p>
+               <p n="7">7. <hi>Num.</hi> 37.] Presses to have <hi>Coleman</hi> come into <hi>France</hi> with the D's Commission, and farther saith, he may obtain something of the <hi>French</hi> Ambassador's Promises.</p>
+               <p n="8">8. <hi>Num.</hi> 56.] Speaks of a Pension from the Pope to <hi>Coleman</hi> for his service to the Catholicks.</p>
+               <p>
+                  <hi>Jan.</hi> 29. to <hi>Coleman</hi>] St <hi>Germain</hi> will be always ready to deliver Messages in the favour of the Duke and Duchess, Catholicks and <hi>Coleman</hi> to the Confessor and King of <hi>France.</hi>
+               </p>
+               <p n="18">18. <hi>March</hi> 76. <hi>Num.</hi> 20.] Transaction of a Pension of 100000 <hi>l.</hi> Sterling for <hi>Coleman</hi> from <hi>France.</hi>
+               </p>
+               <p>Builds much upon the Discourse the Duke held with the Grand Treasurer, and directs the means of treating with <hi>France.</hi>
+               </p>
+               <p>
+                  <hi>Jan.</hi> 29.] A suspitious expression of an intent to perswade the D. to the consent of doing the Work, or as others translate it, to the giving the Blow.</p>
+               <p>Observe that the vigorous Counsels necessary for the Catho<g ref="char:EOLhyphen"/>liques came from the Duke by the inspiration of <hi>Coleman.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Leybourn</hi>'s Letters directed to <hi>Coleman,</hi> Secretary to Her Royal Highness.</head>
+               <p>
+                  <hi>Rome, April</hi> 17.] The Letter which the Duke wrote to the Pope, and was given to Mr. <hi>Conne,</hi> hath miscarried; the Nuncio of <hi>Paris</hi> doth acknowledge to have received of Mr. <hi>Conne</hi> the Pacquet in which it was, and doth say he sent it hither, but here it cannot be found: The Cardinal of <hi>Norfolk</hi> sent this to the Pope and Cardinal <hi>Cibo,</hi> who saith the only Remedy now is a Duplicate.</p>
+               <p>
+                  <hi>April</hi> 30.] Since my last, Cardinal <hi>Norfolk</hi> hath been pressed with extraordinary earnestness by the Duke of <hi>Florence,</hi> to write to the
+<pb n="7" facs="tcp:201967:5"/>King of <hi>England</hi> that Mr. <hi>Plat</hi> may not be sent again to <hi>Florence,</hi> for weighty Reasons; the Letters are all sent directed to Mr. <hi>Cooke,</hi> there being some doubt of Mr. <hi>Coleman's</hi> not being in <hi>London.</hi>
+               </p>
+               <p>He was also writ to by the Duke of <hi>Florence</hi> to the same purpose, who accordingly by this Post hath represented the matter to the Lord <hi>Arundel,</hi> Mr. <hi>Coleman,</hi> and Cardinal <hi>Norfolk</hi> is intreated to farther it.</p>
+               <p>
+                  <hi>May</hi> 29.] Mentions the miscarriage of the Dukes Letter to the Pope, recommended long since to come; but the Pope being satis<g ref="char:EOLhyphen"/>fied it came to his Nuncio at <hi>Paris,</hi> is resolved without expecting another to direct a Brief to the Duke, and Cardinal <hi>Norfolk</hi> doth not doubt but the Duke will reply thereupon.</p>
+               <p>
+                  <hi>June</hi>—] The Popes Letter to the Duke of <hi>York,</hi> the Brief di<g ref="char:EOLhyphen"/>rected to the D. is in Cardinal <hi>Norfolk</hi>'s hands, than which no<g ref="char:EOLhyphen"/>thing finer or fuller could be expected: Mr. — in four days de<g ref="char:EOLhyphen"/>parts with it, carries also for the Duke and Duchess two pair of Beads from the Pope, with most ample Indulgences; desired that some <hi>English</hi> Priest should be with the Popes Nuncio at <hi>Nimeguen,</hi> Doctor <hi>Goodwing</hi> excusing himself, Mr. <hi>Conne</hi> is likely to go: My Service to our Friend in <hi>Fleetstreet.</hi>
+               </p>
+               <p n="32">32. XVIII <hi>June</hi> 25. Mr. <hi>Plat</hi> is now so impertinent, to declare that he was always a Protestant in his Heart, expects with great impa<g ref="char:EOLhyphen"/>tience an Order to call him, and certainly Mr. <hi>Plat</hi> deserves it.</p>
+               <p>
+                  <hi>July</hi> 9. 33 XIX.] The hopes you give, that Mr. <hi>Plat</hi> will be recalled, is very wellcome to the Duke of <hi>Florence;</hi> there is great need of it; for the Inquisition hath begun to stir in it. Cardinal <hi>Cybo</hi> hath made complaint of it to the Resident of <hi>Florence;</hi> as I have signified more particularly to my Lord <hi>Arundel.</hi>
+               </p>
+               <p>XX. <hi>July</hi> 10.] My last, which was by the Post, acquainted you that the Letter of the Duke of <hi>York</hi> to the Pope was received, the good man reading it, could not abstain from Tears. Answer will be shortly sent thereupon, the matter hath been done by great tenderness, with expressions of kindnesses as could be expected, as you are desired to signifie.</p>
+               <p>35. XXI. <hi>July</hi> 16.] The business of <hi>Venice</hi> Embassadour, menti<g ref="char:EOLhyphen"/>oned in my two last; what hath come to your mind concerning a Match with the Prince of <hi>Florence.</hi> Our Lady <hi>Anne</hi> deserves better reflections, than I am able to make of it; setting aside the interest you might move the Duke of <hi>Florence,</hi> to desire his great respect for the Duke of <hi>York</hi> would set a great weight upon his inclination to carry him towards it.</p>
+               <pb n="8" facs="tcp:201967:6"/>
+               <p>XXII.] I had yesterday, a Letter from the Duke of <hi>Florence,</hi> who continues his pressing earnestness, for compassing, here to fore men<g ref="char:EOLhyphen"/>tioned; I doubt it may linger a great while, if such a reason be ex<g ref="char:EOLhyphen"/>pected as may satisfie; I think it might suffice that Mr. <hi>Plat</hi> is ve<g ref="char:EOLhyphen"/>ry on welcome to the D. of <hi>Florence.</hi>
+               </p>
+               <p>36. XXIII. <hi>July</hi> 20.] The Court there will not be well pleased, till <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> that obstruct the Peace at <hi>Nimeguen</hi> be removed.</p>
+               <p>XXVI.] Mr <hi>Gr.</hi> is your Servant; this day he hath a Breef of the Pope, in answer of the Letter of the Duke.</p>
+               <p>37. <hi>July</hi> 24. <hi>August</hi> 6.] These must acknowledge the receit of yours of <hi>June</hi> the 28. and <hi>July.</hi> Sir, one of them was very welcome for the Satisfactory matter it gave me for a Letter unto the Duke of <hi>Florence,</hi> after a Weeks silence to the point, he is so much concerned; for the same Post did also bring me a Letter from my Lord <hi>Arundel</hi> to the same effect, which I shall thank him for shortly. Cardinal <hi>Norfolk</hi> hath writ to the King to take the Queen of <hi>Sweeden</hi> into his protection, at the Treaty at <hi>Nimeguen;</hi> Reasons to prove the Justness of her pretensions, sent to Mr. <hi>Cook.</hi> Card. <hi>Norf.</hi> would be w<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll pleased, if Mr. <hi>Coleman</hi> promote this Interest with the Duke.</p>
+               <p>38. XXVI. <hi>August</hi> 3. 74. [I have had thanks this Week, from the D<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke of <hi>F<gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ence,</hi> for the account I gave him the last, of what was co<gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ed in Letters, from Lord <hi>Arundel</hi> and Mr. <hi>Coleman,</hi> about Mr. <hi>P<gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>t.</hi>
+               </p>
+               <p>
+                  <hi>Aug.</hi> 29. XXVII. 40.7, 11.] We have had three this Week, one of them gave hopes of a Letter from the Lord <hi>Arundel;</hi> I am indebt<g ref="char:EOLhyphen"/>ed to the Friend in <hi>Fleet-street,</hi> for two Letters.</p>
+               <p>A Breef was sent last Year, Dated about the 9th. of <hi>May,</hi> and carried from hence, by an <hi>Irish</hi> Bishop: Cardinal <hi>Norf.</hi> would know <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> it were deliver'd to <hi>C. Q.</hi> the answer was late expected. Card. <hi>Barbarine</hi> is in pain to know whether a Picture which he sent her Royal Highness, hath been received.</p>
+               <p>XX<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>X 41. <hi>Octob.</hi> An express dispatched from <hi>Nimeguen,</hi> by the Popes Nuncio, yesterday brought the welcome news of a peace made between <hi>France</hi> and <hi>Spain:</hi> His Holiness went this Afternoon to S. <hi>Mary Major,</hi> to thank God for the publique benefit, and <hi>Te Deum</hi> is like to be Sung.</p>
+               <p>42. XXX. <hi>Nov.</hi> 2. 43. XXXI. <hi>Nov.</hi> 20.] In the Country, with Mr. <hi>G<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>en,</hi> would return to <hi>Roone</hi> to morrow, the former Cypher not be<g ref="char:EOLhyphen"/>ing understood, enquires again after the Brief, sent last year in <hi>May,</hi>
+                  <pb n="9" facs="tcp:201967:6"/>from the Pope to the Queen; the confidence with which Mr. <hi>Coleman</hi> ends his Letter to the Prince doth much please, but that delivered by Mr. <hi>Can,</hi> in naming Duke <hi>Lauderdale,</hi> the Correspondent of Cardinal <hi>Norf.</hi> is much wonder'd at. I hope Mr. <hi>Coleman</hi> will on this ac<g ref="char:EOLhyphen"/>compt judge it necessary to proceed with more caution.</p>
+               <p>18. XXXII. <hi>Dec.</hi> 1.] Said the D. of <hi>Modena</hi> intends a journy for <hi>London.</hi>
+               </p>
+               <p>19. XXXIII. <hi>Jan.</hi> 1. 78.] The Letter of the D. about marrying of his Daughter to the Prince of <hi>Orange,</hi> hath been delivered: I con<g ref="char:EOLhyphen"/>fess the Prince remains satisfied, the D. was in no fault but his inten<g ref="char:EOLhyphen"/>ed answer will not touch that point.</p>
+               <p>19. XXXIV. <hi>Same bundel.</hi>] The business of Prince <hi>Rinold,</hi> I fear is not yet ripe.</p>
+            </div>
+            <div type="part">
+               <head>Five Letters from Cardinal <hi>Norfolk,</hi> to <hi>Coleman.</hi>
+               </head>
+               <p>20. XXXV. <hi>Rom.</hi> 12. <hi>June</hi> 77.] This sent by his Nephew, in whom, he saith, you may have all confidence in any thing that concerns Mr. <hi>Yours,</hi> or me, for I assure you, that he hath a right esteem and fidelity for all, and will confer with you; he carrieth along with him something safer for Mr. and Mrs. from my Patron, which you will be glad to see.</p>
+               <p>XXXVI. <hi>R.</hi> 27. <hi>July</hi> 27.] The adjoining Pacquet, which I now di<g ref="char:EOLhyphen"/>rect to you, contains the Popes Brief, in Answer of his 2d. Letter of his R. H. My Nephew who carried the other, may be near his Journeys end with it: I assure my self they will be both very wel<g ref="char:EOLhyphen"/>come, as that which occasioned them was to his Holiness. God grant to this new correspondence a blessing, whereof the whole Nation may have experience of the effects.</p>
+               <p>22. XXXVIII. Sir <hi>William Throgmrotons</hi> Letters, <hi>Nov.</hi> 28. 74.] The <hi>French</hi> Kings great kindness to the D. and that would help him to be chief Factor; Judges the dissolution of the Parliament an absolute and necessary work, hopes to raise 50000; though the <hi>French</hi> King should be backward.</p>
+               <p>23. XXXIIII. <hi>Paris Dec.</hi> 8. 74.] Had rather have the <hi>French</hi> King have 2000000 of the Catholicks, than 30000 of the <hi>French</hi> Kings promises of 50000. from thence.</p>
+               <pb n="10" facs="tcp:201967:7"/>
+               <p>24. XXXIV. <hi>Decemb.</hi> 15. 74.] A passage about dissolving the Par<g ref="char:EOLhyphen"/>liament, which being compassed, he hopes the K. will never Quit.</p>
+               <p>25. XI.] We are promis'd assistance from <hi>France,</hi> of Moneys, or any thing else.</p>
+               <p>
+                  <hi>Paris, Decem.</hi> 22. 74.] Advice that the D. on his own Score car<g ref="char:EOLhyphen"/>ry on the Trade, and compass the dissolution, if possible, if not make the best Market with <hi>France,</hi> and <hi>Arundel</hi> and <hi>Coleman</hi> to be advised about it, the K. of <hi>England</hi> immaginably despised.</p>
+               <p>27. XIII. <hi>Jan.</hi> 19] He is over-joyed to hear the Parliament may be dissolved without the 3000000 for that it will make the <hi>French</hi> King sensible of the D<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kes power, and interest, and bring him to better terms, and link the <hi>French</hi> King and Duke, which is the great and necessary interest.</p>
+               <p>4. About dissolution, and money for it, and reflecting especial<g ref="char:EOLhyphen"/>ly upon the K.</p>
+               <p>28. XI. III. <hi>Feb.</hi> 20. 29. <hi>Feb.</hi> 6 74/5] Relation to the Transaction for the 3000000. hath these words of the <hi>French</hi> K. will do nothing; I know not how to help it; but the truth is, he hath so mean an o<g ref="char:EOLhyphen"/>pinion of the K. and his Partners, that I doubt he thinks scarce a<g ref="char:EOLhyphen"/>ny thing they can do worth 3000000. it must be something imme<g ref="char:EOLhyphen"/>diately from the Duke, that I must tell him, that will perswade him to hope for better things, when he shall govern. Adieu, I can say, no more.</p>
+               <p>30. XII. Observe.] This seems the deposing, or destroying of the King, for it must mean something to be done speedily, otherwise it could give no assurance of recompence for 3000000, which was so hard to be parted with, for it was a remote thing to expect and depend on the course of Nature; Whereby the K. being but two years elder then the Duke, the Duke might possibly dy before him.</p>
+               <p>31. XLVI, <hi>Paris Feb.</hi> 9.] The whole Transaction for the 3000000. to put off the Parliament, and carry on the <hi>French,</hi> and D. interest are all for the sake of the Catholicks.</p>
+               <p>XLVII. 44.] About the same, but hard to be read.</p>
+               <pb n="11" facs="tcp:201967:7"/>
+               <p>
+                  <hi>Feb.</hi> 13. XLIX. 45.] The <hi>French</hi> King will assist the King against the Parliament, when the Parliament shall play the Prank, and con<g ref="char:EOLhyphen"/>cludes, Let not the Duke nor <hi>Ravigny</hi> trust the K. with more than needs, you know he is not good at keeping of Secrets.</p>
+               <p>
+                  <hi>Feb.</hi> 20. L. <hi>March</hi> 16.] Complements of being disappointed by the Treasurer and <hi>Lauderdale,</hi> magnifies and reviles the K. for being abused by Knaves.</p>
+               <p>LI. 47.] To no great purpose, but that my Lord <hi>Arundel</hi> is there<g ref="char:EOLhyphen"/>in named as some body with the <hi>French</hi> King. <hi>Vide</hi> a <hi>French</hi> Paper Entituled <hi>Instructions.</hi>
+               </p>
+               <p>LI. 48. <hi>French</hi> promise assistance to the Duke, and particularly to help him to Money to buy a new Parliament, if he please.</p>
+            </div>
+            <div type="part">
+               <head>Sheldon<hi>'s Letters,</hi> May 22. 75.</head>
+               <p>Hopes for a Dissolution of the Parliament, whose proceedings are expected by the <hi>French</hi> King, fears the Lord Treasurer is not a Friend to the Catholicks; that it's told the D's endeavours have been use<g ref="char:EOLhyphen"/>ful to him.</p>
+               <p>49. LIII. <hi>June</hi> 8.] A Prorogation would leave things in the same posture as to Religion, then ill with the Catholicks; but hopes the D. will improve the occasion, and <hi>Lauderdale</hi> will sure be of the same opinion; I will not answer for the Treasurer.</p>
+               <p>The last Paragraph mentions Sir <hi>Jo. Ar.</hi> and Sir <hi>Geo. Wakeman.</hi>
+               </p>
+               <p>50. LIV. 75.] Speaks of the secret intercourse betwixt the K. of <hi>England</hi> and <hi>France.</hi>
+               </p>
+               <p>51. LVI. <hi>July</hi> 25.] Hopes the D. will take other measures, and there will be some need of the <hi>French</hi> K. who will be instrumental.</p>
+               <p>52. LVII. <hi>July</hi> 13.] <hi>France</hi> not upon sure Foundations till the D. be able to secure it, and promiseth to have the D. set in such a posture.</p>
+               <p>54. LVIII.] To put the D. in that posture and great endeavour of <hi>France,</hi> but <hi>Ravigni</hi> not a fit Instrument, but such an Ambassador as may be wholly subordinate to the Dukes Commands, Commends Sir <hi>Ellis Layton</hi> for a good Instrument, Lord Treasurer fails of no<g ref="char:EOLhyphen"/>thing.</p>
+               <pb n="12" facs="tcp:201967:8"/>
+               <p>
+                  <hi>Col. Aug.</hi> 7.] Nothing clear but the complying of the D. and Catholicks together.</p>
+               <p>55. <hi>Aug.</hi> 30. 56. LX. 24, 75.] Speaketh of the proposal made by the <hi>Spanish</hi> Ambassador in <hi>England,</hi> which makes <hi>France</hi> jealous, cautious, for the advantage of the Catholicks, and saith the Duke prefers Religion.</p>
+               <p>LXII. 58.] Saith he had said to <hi>Pompone,</hi> that the D. was attacht with <hi>France,</hi> and also considering the Design of <hi>Spain,</hi> it was not to be relyed on to promote the Catholicks Cause.</p>
+               <p>What Measures the <hi>Spanish</hi> Ambassador hath taken, unless he en<g ref="char:EOLhyphen"/>gages the D. upon the account of the Catholicks, he will not find his Accompt.</p>
+            </div>
+            <div type="part">
+               <head>Coleman<hi>'s Letters:</hi>
+               </head>
+               <p>All Nine or Ten fit to be read.</p>
+            </div>
+            <div type="part">
+               <head>Will. Rices <hi>Letters.</hi>
+               </head>
+               <p>LXIV. 60.] They are Eleven, and said to be the E. of <hi>Barkshires,</hi> I have received them, but cannot see any thing in them material.</p>
+               <p>That of <hi>March</hi> 24. 75. MC. 10. seems to be the best of them.</p>
+            </div>
+            <div type="part">
+               <head>Cardinal <hi>Norfolks</hi> Letters.</head>
+               <p>LXIII. 59.] Are all in general about the satisfaction the Pope at <hi>Rome</hi> took in the D. and what shall be endeavoured and done so far as possible for him and the Catholicks, yet <hi>Vel.</hi> the Cardinal is named, pray read two or three of them, as shall be thought fit.</p>
+            </div>
+         </div>
+         <div type="text">
+            <pb n="13" facs="tcp:201967:8"/>
+            <head>
+               <hi>Animadversions</hi> On the foregoing BREVIATS.</head>
+            <p>I Begin with their Ends: Here we find Religion not only preferred by the <hi>Pope,</hi> but Duke of <hi>York</hi> also, a<g ref="char:EOLhyphen"/>bove Concerns of Crowns and Kingdoms; and of those he so impatiently expects, and hath so long, so hotly, so primitively pursued, to the extreme hazard of his Bro<g ref="char:EOLhyphen"/>ther and Soveraigns Life, and Royal Family.</p>
+            <q>Ante Diem Frater Fratris Dom. inquiratur annos.</q>
+            <p>The other Conspirators also do all design and practise all things altogether for the good of the <hi>English</hi> Catho<g ref="char:EOLhyphen"/>liques, and Catholique Religion: Here they play the Devils for Gods sake.</p>
+            <q>Tantum Religio potuit suadere malorum?</q>
+            <p>A shame to those Clergy and Gentry, that are not as zealous to preserve and propagate the true, as they the false.</p>
+            <p>The means by which they seek to bring this about, the Advance of the Duke of <hi>York</hi> to such a posture, and by such measures, as no Protestant, not Mr. <hi>Ravigni</hi> the King of <hi>France's</hi> Embassadour was fit to be made privy to, or act in, which might speedily produce to the <hi>French</hi> King ad<g ref="char:EOLhyphen"/>vantages of more than 300000 <hi>l.</hi> which was more than he valued the King and all his Party to be worth, or able to deserve, which doth strongly intimate that he was to be removed.</p>
+            <pb n="14" facs="tcp:201967:9"/>
+            <p>A Foundation was to be laid by the DUke, whereon the <hi>French</hi> King might raise the Fifth Universal Monarchy, and the Papists enjoy their Fanatick expectations under it without doubt: And to the same end, the Peace betwixt <hi>France</hi> and <hi>Spain</hi> was to be promoted at the Treaty of <hi>Nimegen.</hi>
+            </p>
+            <p>The Daughters of <hi>England</hi> were to be disposed of to Popish Princes, the Lady <hi>Anne</hi> to the Duke of <hi>Florence.</hi>
+            </p>
+            <p>It was a fault, though well removed by the Duke, by his Letters Excusatory to the Pope, and so cast on the King without doubt, yet not to be acknowledged, as well excused in the <hi>Popes</hi> Answer, that he might understand that all Matches into Royal Blood, and hopes thereby of inheriting Kingdoms, ought to be reserved, and will be hereafter to be disposed by his Holiness on such his Fa<g ref="char:EOLhyphen"/>vourites, the fierce and sworn Enemies of all Heretiques, and their Abettors, as he should commend or approve.</p>
+            <p>The late Long Parliament was to be dissolved, that the King who was not like to have another so much at his Command, might not have them to relye on, and so be compelled to stick to the Papists, and their Councels to dispair of help from Parliaments; or if he called a new one, they might out-bribe, and so out-vote him and his Party in Elections of Parliament men, and so in the Par<g ref="char:EOLhyphen"/>liament it self with the <hi>French</hi> money: This they call buying a Parliament for the Duke, by which they hoped to make him Admiral General, and all things; and at last turn our Annual Parliaments of <hi>England</hi> into perpetual Parliaments of <hi>Paris.</hi>
+            </p>
+            <p>1 Que. <hi>How our Hedgers will prevent the next Popish Suc<g ref="char:EOLhyphen"/>cessor of that Crown Jewel, and Inestimable Prerogative of buy<g ref="char:EOLhyphen"/>ing and selling all his Protestant Subjects for Slaves, which is a more profitable and Honourable way, than burning them within or without their Houses.</hi>
+            </p>
+            <pb n="15" facs="tcp:201967:9"/>
+            <p>2 Que. <hi>Whether he will sell them as the Primitive Christi<g ref="char:EOLhyphen"/>ans to the</hi> Spanish <hi>Mines;</hi> B. C. <hi>would not out of his compas<g ref="char:EOLhyphen"/>sionate Conscience free them all by</hi> Habeas Corpus's, <hi>till he meet with another Lord C. J.</hi> Pophams <hi>Case.</hi>
+            </p>
+            <p>3 Que. <hi>Whether a Catholique Jury, by a second Purchase, ad<g ref="char:EOLhyphen"/>ded to a Catholique Parliament by a late experiment, have not taught us, that the Writ</hi> de Heretico Comburendo <hi>taken a<g ref="char:EOLhyphen"/>way, hath promoted us Heretiques to be first hanged, and then burnt at</hi> Tyburn, <hi>if they please, for greater honour, and espe<g ref="char:EOLhyphen"/>cial favour; after the example of the Pious and Valiant Lord</hi> Cobham, <hi>who deserved this Epitaph,</hi>
+            </p>
+            <q>Dextera per ferrum Pietas spectata per Ignes.</q>
+            <p>Here I should have come to the Enumeration and De<g ref="char:EOLhyphen"/>scription of the Conspirators, but being they are such Strangers unto me, that I know the Duke of <hi>York</hi> no more than the <hi>Pope,</hi> and may safely take my Oath, that to my best remembrance I have rarely seen, and scarcely know any, or but two at most whom every one knows, and adorns with their dogged Rhetorick; and I believe and hope they know me as little, or less: The best way I can think of for my Readers satisfaction, instead of giving their Characters, I will set down their Correspon<g ref="char:EOLhyphen"/>dents, by which he may Characterize them, if he plea<g ref="char:EOLhyphen"/>ses, in his own Thoughts.</p>
+            <q>Noscitur ex Socio qui non cognoscitur ex se.</q>
+            <p>But now before I come to Enumerate them, I call to mind that I know a Third, whom of all of them I wish I had never known; and he also is none of the Delights of Mankind.</p>
+            <p>I begin with his <hi>Holiness;</hi> a kind, good Natured, Old Gentleman, if you can believe either the Cardinal <hi>Nor<g ref="char:EOLhyphen"/>folk,</hi> or Mr. <hi>Oates,</hi> not unknown to that Scarlet Hat.</p>
+            <pb n="16" facs="tcp:201967:10"/>
+            <p>You may be sure he keeps Intelligence with no mean persons; and I had as leave you as I should trouble your self to number his Briefs, Bulls, or Bables, as they signi<g ref="char:EOLhyphen"/>fie in <hi>English,</hi> and differ little in value from those our Children blow and play withall; but that being more costly, though as empty and vain, they are sport for their Masters, the Childishly deluded Grandees of the World, with whom I leave them.</p>
+            <p>The <hi>French</hi> King would be offended if he should not be Assigned the next Place after his <hi>Holiness;</hi> and he, if any Contemporary to the expected Fall of the <hi>Romish Babylon,</hi> may stand Parallel and Antitype to <hi>Nimrod</hi> the Mighty Hunter before God in our days: I doubt he hath not chosen a good Season to erect his <hi>Fifth Monarchy,</hi> nor is his Kingdom furnished with Lasting Materials for such a work; but above all, I mislike the Cement of Christi<g ref="char:EOLhyphen"/>an Blood, with which he seeks to fasten the Fleet in Sands, whereon he hath laid the Foundation of his Walls and Bulwarks for the defence of his Rapine, wherein he glories, as some of those Heathen Monsters, who thought themselves worthy the Name of Great Conquerours, be<g ref="char:EOLhyphen"/>cause they had been cruel bloody Butchers, and Oppres<g ref="char:EOLhyphen"/>sors of the Ages they lived in, and were more truly stiled by sober Historians, <hi>The Scourges and Plagues of Mankind:</hi> He is the Great Patron and Protector of all our Conspi<g ref="char:EOLhyphen"/>rators, not excepting our vilest Enemies, and most un<g ref="char:EOLhyphen"/>worthy a Kings Favour; the Assassions, Incendaries, and Massacring Villains who burnt the City of <hi>London,</hi> de<g ref="char:EOLhyphen"/>signed to Murder the King, and bury him with the mas<g ref="char:EOLhyphen"/>sacred Citizens in the Ashes of that Renowned City.</p>
+            <p>This is not the first time that the <hi>French</hi> Monarch hath been invited by his <hi>Jesuit Confessor</hi> to take the advantages of base Treasons, against their loving, disarmed, and peaceable Neighbours, which the Generous <hi>Romans</hi> scorn<g ref="char:EOLhyphen"/>ed to take against their publick, armed, and most dread<g ref="char:EOLhyphen"/>ful Enemies.</p>
+            <p>I have read some where, that Father <hi>Cotten,</hi> Confessor to <hi>Hen.</hi> 11. of <hi>France,</hi> discovered to him the <hi>Gun-Powder
+<pb n="17" facs="tcp:201967:10"/>Treason,</hi> and offered him the advantage of invading <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> at the moment of that Astonishing Blow, desti<g ref="char:EOLhyphen"/>tute of Prince or Councel to Conduct them in their De<g ref="char:EOLhyphen"/>fence.</p>
+            <p>And the truth is, not only the <hi>Gun-Powder Treason,</hi> but the Fire of <hi>London,</hi> without some such Confederacy with <hi>France,</hi> were little less Phrentick than <hi>Venners</hi> Action; though the latter proved mischievous enough to our Ci<g ref="char:EOLhyphen"/>tizens, when the Accounts of <hi>Rome</hi> and <hi>London</hi> are cast up, the <hi>Jesuits</hi> Crack of thirty thousand pound, or he fourteen thousand pound gain, may be found some one hundred thousand pound <hi>per Annum</hi> lost to their Party in a few years: And how the same Society will reward <hi>Lewis</hi> the Fourteenth at last, for not assisting them with his Land-Forces to go through their work at that time, as they expected, I neither know, nor care; but <hi>Henry</hi> the Eleventh paid his neglect to them with the expence of his dearest Hearts Blood, and disappointment to his most Glorious Designs, when best prepared for them: And some to justifie their malice against him, would bear us in hand, that it was <hi>Henry</hi>'s Treason against his Confes<g ref="char:EOLhyphen"/>sor, and his <hi>Papal Holiness,</hi> for which he deserved at their hands as many Deaths, as he saved Protestants lives, that was about thirty thousand; that gave King <hi>James</hi> the Honour of so profound a Speculation, by which he was supposed to have devined the <hi>Powder-Plot,</hi> and the happy deliverance of Himself, Queen, Family and People, from that till then unheard of Treason; if so, we owe to his Memory.</p>
+            <p>But it may be this Haughty Prince never concerned himself to look in his own Person to so poor a Design as the hiring a few Rascals to fire and plunder his Neigh<g ref="char:EOLhyphen"/>bours Towns: For if it be true that I have heard, his Mi<g ref="char:EOLhyphen"/>nister <hi>Lovoy</hi> knows, and hath estimated the Means and Costs of burning all his Masters Enemies out of their
+<pb n="18" facs="tcp:201967:11"/>Towns and Cities; but whether he knew the Artifice before, or learned it at our costs in the <hi>London</hi> experi<g ref="char:EOLhyphen"/>ment, he hath not been suspected, that I have heard, to put it since in practice, though he rated it at no very great sums of Crowns; and assured himself, that the Wandring Priests and Fryars which swarm in all popu<g ref="char:EOLhyphen"/>lous Towns, could not stand against the Temptations of so many <hi>Lewis</hi>'s, and would think the exchange very ad<g ref="char:EOLhyphen"/>vantageous, to give Fire, and take Gold; at that rate he did Calculate it.</p>
+            <p>But neither do I find that any of his great Ministers, <hi>Colbert</hi> or <hi>Pompone,</hi> were concerned with these Pimping Traytors: St. <hi>Germain,</hi> and such like Correspondents, were thought sufficient to manage these Intrigues against such an inconsiderable Party as they esteemed the Kings to be; and well might, if <hi>Lauderdale</hi> and <hi>Danby</hi> were their Cor<g ref="char:EOLhyphen"/>respondent Pensioners, though not through-paced when slowly paid.</p>
+            <p>The third place and degree in the Mystery of Iniquity, I think will be allowed to our D. of <hi>York:</hi> For <hi>Spain,</hi> he had sometimes a contrary Interest to that of our Ruine, and the <hi>Emperour</hi> too far off to be feared, though his as<g ref="char:EOLhyphen"/>sistance be also strongly promised to our destruction by the Popes <hi>Internuncio.</hi> Albany.</p>
+            <p>The King of <hi>England,</hi> for what appears here, holds in<g ref="char:EOLhyphen"/>deed a secret Intelligence with the <hi>French</hi> King, but no<g ref="char:EOLhyphen"/>thing is discovered in it which might not be for the pub<g ref="char:EOLhyphen"/>lick good of his own Kingdom, and all Christendom: His Correspondence with Cardinal <hi>Norfolk</hi> interceding for a Banished and Deposed Queen, may have not only compassion and courtesie, but gratitude in it. We leave him therefore to stand or fall by his Master, as he is not only above our private Ken and Judgment, but out of the reach of all Courts of Judicature, even that of his
+<pb n="19" facs="tcp:201967:11"/>Parliament, who cannot Commence any Session without his Personal Presence, if in capacity to come; and he cannot be both Judge and Party in his own Cause, in a Court where there is no Appeal.</p>
+            <p>Concerning the Duke, there are two Questions, <hi>de Ju<g ref="char:EOLhyphen"/>re,</hi> and <hi>de Facto.</hi>
+            </p>
+            <p>
+               <hi>De Jure,</hi> whether he may be Impeached, or no, I di<g ref="char:EOLhyphen"/>spute not; <hi>De Facto,</hi> is my enquiry what he hath done to deserve it, if he be responsible.</p>
+            <p>His Correspondents I find to be first the <hi>Pope,</hi> against whom the Publick Enemy of his King and Country not to be at enmity, at least actually to be reconciled, as this D. was by Dr. <hi>Armstrong Franciscan,</hi> is High-Treason by as good a Law of his Grandfather, as that by which, be<g ref="char:EOLhyphen"/>ing a Forreigner born, his Title to the Crown was Re<g ref="char:EOLhyphen"/>cognized against the Right Heirs of <hi>Ed. VI. English</hi> born, under which also he must claim his Succession to the Crown of <hi>England;</hi> and this Correspondence had since the Indempnity, by which he would avoid his Treason<g ref="char:EOLhyphen"/>able Apostacy from the Church, and his Allegiance.</p>
+            <p>His Trading with the <hi>Pope</hi> for Briefs, Beads, and Indul<g ref="char:EOLhyphen"/>gences, his excusing his Daughters Marriage to his Co<g ref="char:EOLhyphen"/>sin of <hi>Orange;</hi> his Charming Letters, breaking the good Old Gentlemans Heart at <hi>Rome</hi> into Tears, and receiving so fine, full tender returns in Bables, Bulls, or Briefs, and promises of endeavouring all things for him, shew how fit he is to Reign over Free-men, who is stooped so low, to become of a Free Prince, a Vassal and Pensioner of the See of <hi>Rome.</hi> I need not, after this, object to him his Correspondence with the <hi>French</hi> King by his <hi>Confessor,</hi> in whose Pedantick hand his Advices shall be sure to be cor<g ref="char:EOLhyphen"/>rected only to the Concerns of home, but betrayed to their General and Society, and made Truckle under their Intrigues.</p>
+            <p>His Factory and Trade with <hi>France</hi> for the Catholiques of <hi>England,</hi> if it signifie nothing against his Brother and Sovereign whilst alive, which is scarce possible, considering
+<pb n="20" facs="tcp:201967:12"/>his and their Temptations to make a false step or two to ascend a Throne, and advance an oppressed Church of beloved Friends, against its suspected or declared Ene<g ref="char:EOLhyphen"/>mies; it is a direct Conspiracy against the Law, Liberties and Religion of the Protestant Kingdom, and tends to the dissolution of the Government, and destruction of him<g ref="char:EOLhyphen"/>self and Royal Brother.</p>
+            <p>That we may rightly understand his Concerns in the Plot, we must consider, as far as our Letters enlightned us, his End, his Correspondents, his Actions, his Instruments, the Character they give him, and the odious comparisons, by which they extol him above his Brother; of whose Vertues we have as many thankful remembrances, as we have true acknowledgments of the Dukes Vices: I wish here had been some mention of his wise Councel; but here <hi>Coleman</hi> is all, and inspires him with those vigorous Counsels which are necessary for Catholiques. <hi>N.</hi> 13.</p>
+            <p>First, For his end, he professes to do all for the Catho<g ref="char:EOLhyphen"/>lique Religion, and his Catholiques. <hi>N.</hi> 59.</p>
+            <p>For all other <hi>English</hi> men, and their Representative Bo<g ref="char:EOLhyphen"/>dy, are his declared enemies, and designed materials only for his Valour to work on by Fire and Sword, to the at<g ref="char:EOLhyphen"/>tainment of a Glorious Victory, to Usher him in Triumph into his share of the Papal <hi>Fifth Monarchy. N.</hi> 1.</p>
+            <q>
+               <l>The means to this are;</l>
+               <l>Improving the long Prorogation.</l>
+               <l>Taking new measures.</l>
+            </q>
+            <p>Such as will speedily please <hi>France,</hi> and compensate 300000 <hi>l.</hi> they advance; impossible for his inconsidera<g ref="char:EOLhyphen"/>ble Brother and Party to do.</p>
+            <p>All which spelt together, are in one word to Kill the K. massacre his Subjects, and fire his good Towns and Cities, whether the D. will understand it so or no.</p>
+            <p>Another special means to his Catholique ends, was to dissolve the then Parliament, that was Killing the People in Effigie in their Representative, as things then stood; and to that also, the readiest way was Killing the K. the D's. compleat, expected designed Victory at one Blow.</p>
+            <pb n="21" facs="tcp:201967:12"/>
+            <p>His next means and more effectual then Sword and Fire (take the Plague into) which the Jesuites know easily to transport now, it is bring<g ref="char:EOLhyphen"/>ing up the King of <hi>France</hi>'s Reare, and paying his quarters in the <hi>Low-countrys</hi> of <hi>Germany,</hi> and shall not be long from us if they can help it over, is the Purchase of a Parliament with <hi>French</hi> mony— Here observe why he was no friend, nor his Catholicks to the last long Par<g ref="char:EOLhyphen"/>liament; they were Pentioners, but not all for his interest, nor all Pentioners.</p>
+            <p>His Father <hi>Hide</hi> and his Catholick friend <hi>Clifford,</hi> had not in three times sufficiently de<g ref="char:EOLhyphen"/>boched the People, to see themselves and their Country in a Drunken mood, nor turned out all sober men out of the Corporations, nor had money enough to buy false and double Elections; enough at once with false Sheriffs, and returns to make a Committee of Elections, six to turn out all honest men, that is all Eng<g ref="char:EOLhyphen"/>lish Gentlemen whom they nickname Presbyte<g ref="char:EOLhyphen"/>rians by Test fair or foul play out of the Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p>But now the craft of the Bribery, <hi>&amp;c.</hi> being better known, and the pleople some degrees further deboched, after the example of the Court 300000 l. <hi>French</hi> mony, as he well computed would buy a Parliament, and that
+<pb n="22" facs="tcp:201967:13"/>once bought he never needed to throw a Fire-Ball more in the City, Protect nor give Pensi<g ref="char:EOLhyphen"/>ons for the <hi>London</hi> Incendiaries; nor draw a a Sword against the Fanatick: the terror of one Troop of Granadeers to guard such a Parlia<g ref="char:EOLhyphen"/>ment will do his work, and make him absolute Victor over us, our Parliaments, Laws, Liber<g ref="char:EOLhyphen"/>ties, Lives and Religion. Oh the sordid niggar<g ref="char:EOLhyphen"/>dliness or folly of the Ministers of the <hi>French</hi> King; for <hi>I</hi> believe his lofty Majesty never looks so low as through this design, that com<g ref="char:EOLhyphen"/>plyed not seasonably with this proposal, which would by a strange Metamorphosis have Con<g ref="char:EOLhyphen"/>verted the Kingdom of <hi>England</hi> to a Catholick Kingdom, <hi>London</hi> to <hi>Paris, England</hi> unto <hi>France.</hi>
+            </p>
+            <p>His Correspondents are next to be consider<g ref="char:EOLhyphen"/>ed; in this I have partly prevented my self, namely in his Concerns with the Pope, and we finde little of his Correspondency with the French King; for though we read here of Trade and Kindness, and how much he thought to please, and how strongly he was atached to <hi>France,</hi> and their sole Factor for the Catholicks, and to lay a sure foundation for <hi>France</hi> to build on; yet that French Monarch seems to keep state, and not to correspond personally with him, nor by his Ministers for ought here appears, but
+<pb n="23" facs="tcp:201967:13"/>by his Confessor, and other inferior Agents, with his Secretary <hi>Coleman.</hi>
+            </p>
+            <p>Of the Duke of <hi>Florence</hi> we find only that he is inclined to the Duke with great respect reco<g ref="char:EOLhyphen"/>vers upon a Proposition of a Match with Lady <hi>Anne,</hi> Num. 21.</p>
+            <p>With the Cardinal <hi>Norfolk</hi> and others, he had held correspondency by <hi>Coleman</hi> his or his Dutchesses <hi>Catholick Secretary,</hi> amongst whose papers, part here abstracted, were found with the <hi>inter-Nuncio Albany</hi> by <hi>Sir E. D.</hi> who as<g ref="char:EOLhyphen"/>sures him of special assurance from the <hi>Pope</hi> of <hi>Rome</hi> when his <hi>Affairs</hi> shall need. <hi>Num.</hi> 3. <hi>July</hi> 3.75.</p>
+            <p n="1">
+               <hi>I</hi> have spared to set down this ingenious and learned mans name at length, but <hi>J</hi> can hardly believe my own eyes, but if he be indeed a Cor<g ref="char:EOLhyphen"/>respondent with <hi>Rome</hi> by <hi>Albany</hi> and Cardinal <hi>Norfolk,</hi> as I find it here expressly declared, considering the Eminent Place he hath and doth serve in, and very great <hi>Person</hi> he is related to, the great interest he hath in the Nobility and
+<pb n="24" facs="tcp:201967:14"/>Gentry of his Country none of the least consider<g ref="char:EOLhyphen"/>able in <hi>England,</hi> his Estate already setled on his Son who Voted against the Duke as <hi>I</hi> am in<g ref="char:EOLhyphen"/>formed, I am astonished to think in what estate the poor people of <hi>England</hi> will find it them<g ref="char:EOLhyphen"/>selves, when these Pillars whereon She seemed to me to rely, and be supported most strongly and gloriously, are either rotten at heart, or thus dissemble with God and their Prince to keep their Imployments.</p>
+            <p>And I am out of measure confounded, when I consider that in a County of so numerous and noble Gentry, he could devide the Clergy and carry a Vote against the major part of them: for his next relation in which his Power ap<g ref="char:EOLhyphen"/>pears greater then if he had carried it for him<g ref="char:EOLhyphen"/>self.</p>
+            <q>Heu quatum Mortalia pectora— Noctis habent,</q>
+            <p>And if any of the Gentlemen of that County, who so numerously Voted against his Interest, which seems strange to me can or have deterred him; I beg of them by all that is sacred, that they would apply themselves and by their Interest in his Majesties Parliament and those few friends they can any ways find and be assured of to heal our Breaches &amp; unite all sober
+<pb n="1" facs="tcp:201967:14"/>
+               <hi>Protestants</hi> in the common Interest of Peace and Religion, and not bite and devour one another; for if they be not wholly devoured by one another, they will certainly expose themselves with that Party and Kingdom they are so zealous for, to be a prey to their Common Ene<g ref="char:EOLhyphen"/>mies. Which that God of his Infinite Mercy will prevent wholly, as he goes on to Detect wonderfully, and thereby graciously warn us to Repent, and return to Him for Protection and Safety: Is the Prayer of their poor Countreyman, who with Bleeding Heart, and Mournful Eyes, laments the sad Condition of his Prince and Countrey, who seem to him Confounded by these Prodigious Traitors, to run fiercely with open Eyes to the dreadful pit of Slavery, Popery, and utter Confu<g ref="char:EOLhyphen"/>sion, whereunto they are Sold by them they Confide in, and could not possibly expect to be so Wicked, untilthis Incredible Discovery made of their, in all Ages to be unparallel'd, and for ever to be abhorred Dis<g ref="char:EOLhyphen"/>simulation and sordid Treachery: From which, Good God deliver us, <hi>Amen, Amen.</hi>
+            </p>
+            <div type="part">
+               <head>I come now to the D's Actions, so far as they appear here.</head>
+               <p>He is Inspired, and Pressed on by his Secretary <hi>Cole<g ref="char:EOLhyphen"/>man,</hi> to all Vigorous Counsels necessary for the Ca<g ref="char:EOLhyphen"/>tholicks. <hi>N.</hi> 13.</p>
+               <p>Indeavours to be useful to the <hi>French</hi> King. <hi>N.</hi> 52.</p>
+               <p>He improves the Occasion of the Prorogation for him, with <hi>Lautherdale</hi>'s Advice. <hi>May</hi> 22.75.</p>
+               <p>The D's Improvement of the Prorogation, was <hi>Coleman</hi>'s Bribery for Votes, which the Treasurer was jealous of.</p>
+               <p>The Jesuits Improvement was to Cut the King's and Subjects Throats in the mean time, if they could.</p>
+               <p>He Trades and Factures with <hi>France</hi> for Catho<g ref="char:EOLhyphen"/>licks on his own Score. <hi>N.</hi> 38.41. <hi>Throgmorton. Nov.</hi> 23. 1674. <hi>Paris. Dec.</hi> 1. 1674. <hi>Paris. Dec.</hi> 22. 1674. <hi>Paris.</hi>
+               </p>
+               <p>Was against the Treasurers Trade for himself and his King. <hi>N.</hi> 38.41. <hi>Throgmorton. Nov.</hi> 23. 1674. <hi>Paris. Dec.</hi> 1. 1674. <hi>Paris. Dec.</hi> 22. 1674. <hi>Paris.</hi>
+               </p>
+               <p>And seeks to be Sole or Chief therein, to the Ex<g ref="char:EOLhyphen"/>clusion of the Grand Treasurer, by the <hi>French</hi> King's Kindness and Dissolution of the Parliament, against the Treasurers Interest therein, by two Pentioners: <hi>Hinc ille Laerymae. N.</hi> 38.41. <hi>Throgmorton. Nov.</hi> 23. 1674. <hi>Paris. Dec.</hi> 1. 1674. <hi>Paris. Dec.</hi> 22. 1674. <hi>Paris.</hi>
+               </p>
+               <pb n="26" facs="tcp:201967:15"/>
+               <p>He will take other Measures, wherein there will be need of the <hi>French</hi> King's Instrumentallity, as is ho<g ref="char:EOLhyphen"/>ped by <hi>Sheldon. July</hi> 25.75. Nn. L V.</p>
+               <p>He is to be put in a Posture by the great endeavours of <hi>France</hi> (for which <hi>Ravigni</hi> is no fit Instrument to secure the <hi>French</hi> Foundation) for this he must have an Embassador wholly at his Command: Sir <hi>Ellis Leyton</hi> is a good one. <hi>July</hi> 13.29. <hi>N.</hi> 56, 57, 58.</p>
+               <p>He is to be perswaded to the Blow (that is, to sign the K's Execution) to please <hi>France</hi> speedily, by his Government. <hi>N.</hi> 44, 45.</p>
+               <p>He will do nothing for <hi>Spain,</hi> unless the Catholicks find their Account therein, <hi>Aug.</hi> 30. <hi>Sep.</hi> 24. <hi>Octob.</hi> 1. <hi>N.</hi> 58, 59, 60, 61.</p>
+               <p>He gives great satisfaction to the Pope, who by Cardinal <hi>Norfolk,</hi> promises to do what is possible for him to the Catholicks. <hi>N.</hi> 62.</p>
+               <p>He writes oft to the Pope, and very pathetically. <hi>N.</hi> 17.20.33.36. <hi>Ap.</hi> 1676. <hi>Jul.</hi> 10. <hi>Ja.</hi> 1<seg rend="sup">o</seg>. 78. <hi>Jul.</hi> 27.77.</p>
+               <p>Discourses with the Grand Treasurer, upon which much is built. <hi>March</hi> 22/76. <hi>N.</hi> 11.</p>
+               <p>D. <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+                  <hi>derdale</hi> privately with Cardinal <hi>Norfolk,</hi> for mentioning that <hi>Coleman</hi> is Corrected and Cau<g ref="char:EOLhyphen"/>tioned <hi>N.</hi> 31. <hi>Nov.</hi> 20.76.</p>
+               <p>Is sure to help forward the Dissolution of the Par<g ref="char:EOLhyphen"/>liament (no Friend to his Grace when the Treasurer is dubious, <hi>N.</hi> 52) yet he disappoints where he finds not his Interest as well as the Treasurer. <hi>May</hi> 22.75. <hi>N.</hi> 49.</p>
+               <p>Earl of <hi>Danby,</hi> late Lord Treasurer, no friend to Catholicks, as was feared by <hi>Sheldon; May</hi> 22.75. <hi>N.</hi> 52.</p>
+               <p>Neither was he Undertaker for him as for the D. and <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+                  <hi>derdale,</hi> to improve the Pro<g ref="char:EOLhyphen"/>rogation for the Catholicks Good (that is at least) Bribing and making Votes for them. <hi>Ibid.</hi>
+               </p>
+               <pb n="27" facs="tcp:201967:15"/>
+               <p>He disappoints their Expectation, and so doth <hi>Lauderdale. N.</hi> 49.</p>
+               <p>But much is laid and built on him, after his Discourse with the D. <hi>March</hi> 1675/6, <hi>N.</hi> 11. St. <hi>Germain.</hi>
+               </p>
+               <p>And speaking of the Papists Intrigues with <hi>France,</hi> saith the Lord Treasurer is very well disposed to the Success of this Business. <hi>March</hi> 1675/6. <hi>N.</hi> 6.</p>
+               <p>Heaven only can and doth hitherto preserve that People, whose chief Ministers of State, intrusted with the highest Concerns of their Prince, Countrey, and Religion, betray all to Forreigners and Irre<g ref="char:EOLhyphen"/>concileable Enemies. To him be Praise and Glory for ever. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Lord <hi>ARUNDEL.</hi>
+               </head>
+               <p>Corresponds with the Duke of <hi>Florence. N.</hi> 15.25, 26, 27.</p>
+               <p>By Mr. <hi>Leybourne,</hi> and with Cardinal <hi>Cibo;</hi> by the same. <hi>N.</hi> 19.</p>
+               <p>And with <gap reason="blank" extent="1+ words">
+                     <desc> _____ </desc>
+                  </gap> and Cardinal <hi>Norfolk. N.</hi> 15.</p>
+               <p>He is of the Council, and <hi>Coleman,</hi> with the Duke for carrying on the Trade, and making good Mar<g ref="char:EOLhyphen"/>kets with <hi>France</hi> for Bribing, <hi>&amp;c. N.</hi> 41. <hi>Dec.</hi> 22.74.</p>
+               <p>And for Dissolving the Parliament.</p>
+               <p>He is some Body with the French King. <hi>N.</hi> 50.</p>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:201967:16"/>
+               <head>PARLIAMENT.</head>
+               <p>Proceedings suspected by <hi>France. N.</hi> 52. <hi>May</hi> 22.75.</p>
+               <p>Their Dissolution hoped for. <hi>N.</hi> 52. <hi>May</hi> 22.75.</p>
+               <p>The French King will assist against them. <hi>Ibid.</hi>
+               </p>
+               <p>Their Dissolution necessary. <hi>N.</hi> 37. <hi>Nov.</hi> 28.74.</p>
+               <p>To be Dissolved for the Catholick sake <hi>N.</hi> 1. <hi>Aug.</hi> 14.15.</p>
+               <p>The Dukes Case with them good <hi>N.</hi> 1. <hi>Aug.</hi> 14.15.</p>
+               <p>He hopes to have Victory over them. <hi>Ibid.</hi>
+               </p>
+               <p>He is to have French Money, to have a Parlia<g ref="char:EOLhyphen"/>ment for his turn, if he will have any. <hi>N.</hi> 51. <hi>Instructions.</hi>
+               </p>
+               <p>The Parliament is advantaged by the Division amongst Catholicks, to avoid which, their Censure is to be deferred. Oh that we could learn this Wis<g ref="char:EOLhyphen"/>dom of our Enemies. <hi>N.</hi> 5. <hi>Oct.</hi> 19.75.</p>
+               <p>The Parliaments Pranks provided against by the King of <hi>France,</hi> by all means he can. <hi>N.</hi> 48.</p>
+               <p>Their and our Enemies wait for their Halting, God give them Wis<g ref="char:EOLhyphen"/>dom and us Patience.</p>
+               <p>Their Prorogation ill for Catholick Religion, in comparison of a Dissolution, but improveable by the D. of <hi>Y.</hi> and <hi>Lauderdale. N.</hi> 52. <hi>May</hi> 22.75.</p>
+               <p>If Parliament Dislolved, the King will never quit the Catholicks Interest and Counsels. <hi>N.</hi> 39. <hi>Dec.</hi> 15.74.</p>
+            </div>
+            <div type="part">
+               <pb n="29" facs="tcp:201967:16"/>
+               <p>Here in these Private and Familiar Letters we learn to distinguish between those they publickly pretend to be Enemies to, and those whom they truly account their Enemies (that is, who they are that the Papists and French Factions do truly hate and seek to destroy) not any Parties with or Dissentors from the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> whom by their bawling Agents and Pamphlets, they contiuually rail at, calumniate, and seek to divide and provoke one against another; but it is the Noble and Valiant Protestant Gentry whom they fear and hate, the Parliament, the whole Free People of <hi>England</hi> by them represented, their Laws, Libetties, and Religion, in gross by them protected, the Governours and Go<g ref="char:EOLhyphen"/>verned, and Government it self; which whilst it stands, the Greatness of <hi>France</hi> thinketh it self not to stand secure, nor hold his Conquest fast and sure to him.</p>
+               <p>Here you may see what their Loyalty, Gratitude, and Kindness to their Good King is; others pity and cover his Infirmities: the Old Apostates, by whose favour warmed, these Snakes become Considerable and Terri<g ref="char:EOLhyphen"/>ble, as <hi>Throckmorton</hi> here and every where, very imper<g ref="char:EOLhyphen"/>tinently insulting, abusing, inveghing against him, and exposing him; but never express any Compassion to<g ref="char:EOLhyphen"/>wards him, or the least good wish towards him, his Affairs, or his Reformation; and make and mention him only as a Foil to his Brother, whose Vertues they as insolently boast and exaggerate, as they flatteringly and knavishly conceal his Vices; which if they be not more wicked in a Subject, that pretends so much Holi<g ref="char:EOLhyphen"/>ness and Religion, by the Hypocrisie that covers them, they are more dangerous in a Prince, and render him unacceptable and uncapable of the Government he so ambitiously seeks and aspires to, by exposing his King and Countrey to the greatest horrors and dangers ima<g ref="char:EOLhyphen"/>ginable: I need not instance in any, they are too well known. I delight not in Detraction, here the reason is
+<pb n="30" facs="tcp:201967:17"/>manifest why he and they did procure the Long Illegal Prorogation for Seventeen Months, and endeavored then, and have since Dissolved the late Long Parlia<g ref="char:EOLhyphen"/>ment: namely, That they might Corrupt the Govern<g ref="char:EOLhyphen"/>ment of their Countrey, by buying to them, with French Money, the Votes of as many Electors and Members as they could draw to their Party against their Countrey, their King, and his Party; which, as inconsiderable as they make and esteem it apart, joyning oft with their Countrey, stopt these <hi>Jehues</hi> in their furious Carrier, by which they drove <hi>Charle</hi>'s Wain so madly by <hi>France</hi> to <hi>Rome;</hi> that is, by Tem<g ref="char:EOLhyphen"/>poral to Spiritual Vassalage and Slavery.</p>
+               <p>Not a word of <hi>Presbyterians, Phanaticks, Sons</hi> of the <hi>Church,</hi> those misty Names of mighty use with these Jugglers, wherewith they so amuse the People in their Publick Writings, and strangely Confound and Divide Them, that they may not know whom to fol<g ref="char:EOLhyphen"/>low in their necessary Defence against these Cut-Throats; that so whilst they Massacre one Party whom they publickly pretend especially to hate, the other may not take the Alarm to trouble or oppose them. Methinks it pities me to see my Honest Countreymen in that Noble <hi>Romans</hi> lamentable Condition, when in a Bloody War he sadly complained, <hi>Quem fugiam video quem sequar non video.</hi> Here to their Friends they lay off their Disguise, they unbosome themselves, and frankly confess to one another, Their Enemies over whom they seek Victory, and with whom they will have no Peace, are the whole Body of the King and English People, Parliament and Government, as the Bulwarks of their Religion, Laws and Liberties, which they seek to Dissolve by their Desolation. These <hi>Ro<g ref="char:EOLhyphen"/>man</hi> Wolves fly at the Throat.</p>
+               <p>In the Parliament is the Throat of the Publick; It is the Neck that joyns the Head and Body. The King
+<pb n="31" facs="tcp:201967:17"/>and People that conveys the Influences of Peace and Justice from the Head of every Member, they would Cut off, and for ever so seperate (if possible) from one another, that thereby they might frame to themselves a Monstrous Anarchy, by leaving the Kingdom with<g ref="char:EOLhyphen"/>out a Head; and joyning the Head to their mishapen Limbs, if they could pull down the Parliament once by Force, or Fraud, Arms or Money, and pull out their Throats. If they could Kill or Corrupt the Dogs, they would easily and at their pleasure, devour the poor Sheep.</p>
+               <p>Thus much was thought necessary in this Conjun<g ref="char:EOLhyphen"/>cture of Infidelity and Distrust, to undeceive the Prejudi<g ref="char:EOLhyphen"/>ced, confirm the Staggering, convince the Nullifidian, establish the Faithful, encourage the Drooping, vin<g ref="char:EOLhyphen"/>dicate the King's Evidence, awaken and chear his Faith<g ref="char:EOLhyphen"/>ful Subjects to Watch and Defend him; clear and justi<g ref="char:EOLhyphen"/>fie the last Parliament in their Honourable and just Proceedings, till the Matters and Proofs before them, much more Full and Copious, may be brought to a publick Hearing and free Decision.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
